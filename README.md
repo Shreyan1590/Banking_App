@@ -31,13 +31,13 @@ A comprehensive desktop banking application built with Java Swing that provides 
 
 ## 📸 Screenshots
 - **Login Screen**  
-  ![Login Screen](https://via.placeholder.com/400x250/667eea/ffffff?text=Login+Screen)  
+  ![Login Screen](images/Login.png)  
 
 - **Dashboard**  
-  ![Dashboard](https://via.placeholder.com/400x250/764ba2/ffffff?text=Dashboard)  
+  ![Dashboard](images/Dashboard.png)  
 
 - **Registration Form**  
-  ![Registration Form](https://via.placeholder.com/400x250/2E86AB/ffffff?text=Registration)  
+  ![Registration Form](images/Register.png)  
 
 ## 🛠 Prerequisites
 Ensure the following are installed before running the application:
